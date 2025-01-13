@@ -7,7 +7,7 @@ library(dplyr)
 library(ggplot2)
 library(shinythemes)
 library(shinycssloaders) # For loading screen
-
+library(tidyr)
 
 # Define UI for application
 ui <- fluidPage(
